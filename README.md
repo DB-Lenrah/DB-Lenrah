@@ -36,7 +36,7 @@ Beyond the screen, I'm into **2D animation**, **3D modeling with Blender**, and 
 
 ## 📌 Featured Project
 
-### [💬 DB-Lenrah WhatsApp Bot](https://github.com/DB-Lenrah/whatsapp-bot)
+### [💬 DB-Lenrah WM BOT](https://github.com/DB-Lenrah/WM-Bot)
 > A full-featured community management bot for WhatsApp
 
 - 🧠 AI-powered replies using **Groq API (LLaMA 3.3)**
