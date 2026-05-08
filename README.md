@@ -59,6 +59,6 @@ Beyond the screen, I'm into **2D animation**, **3D modeling with Blender**, and 
 ---
 
 <sub>Based in Egypt · Open to freelance work · Building one project at a time</sub>
-# Hi, I'm Mustafa Abdelbaset (DB-Lenrah) 👋Legal Notice: The digital identity "DB-Lenrah" and all associated branding are the intellectual property of Mustafa Abdelbaset Mohamed. Established in [اكتب سنة البداية هنا].
+<sub># Hi, I'm Mustafa Abdelbaset (DB-Lenrah) 👋Legal Notice: The digital identity "DB-Lenrah" and all associated branding are the intellectual property of Mustafa Abdelbaset Mohamed. Established in September 2025.</sub>
 
 </div>
